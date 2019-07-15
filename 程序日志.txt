@@ -1,3 +1,5 @@
 2019.7.2
 
-1.EtherCAT��ֲ�ڶ��棬�� STM32CubeMX ����Ϊ�������Զ����ɸ��������ʼ�����������ã����̱��: AD7124-8-EtherCAT v0.2
+1.EtherCAT移植第二版，以 STM32CubeMX 工具为基础，自动生成各个外设初始化，完善配置，工程编号: AD7124-8-EtherCAT v0.2
+7.15
+1.完成初版 XML 编号：HCQX-TS-04-V0.1
